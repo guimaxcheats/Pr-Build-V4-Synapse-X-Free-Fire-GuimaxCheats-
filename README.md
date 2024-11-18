@@ -5,4 +5,5 @@ Adquira seu login pelo contato fornecido abaixo:
 ou o instagram
 @combo.trick
 
-Versão: Pré-Build V4
+Versão Anterior: Pré-Build V4
+Versão Nova: Pré-Build V5
